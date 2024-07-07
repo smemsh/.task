@@ -1,7 +1,7 @@
 #
 
-*.data
-task.*.task
-data/
-notes/
-rc.local
+/*.data
+/task.*.task
+/data/
+/notes/
+/rc.local
